@@ -83,5 +83,3 @@ there are no tests at this time.
 
 ![UML](./lab-16-uml.png)
 Link to an image of the UML for your application and response to events
-
-
