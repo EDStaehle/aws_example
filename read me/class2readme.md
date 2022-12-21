@@ -40,3 +40,7 @@ at one point i was not able to view my cloud watch logs. issued was due to an in
 a link to your images.json file
 
 [images-file](https://eds-401-addimg-class-17.s3.amazonaws.com/images.json)
+
+
+collaborations while working on this project: i collaborated with Steven Rejdukowski and Lewis Benson.
+
