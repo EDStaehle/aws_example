@@ -26,7 +26,7 @@ upload a jpg file
 
 click on image.json
 
-download the file
+download the files
 
 open file in editor of choice
 
