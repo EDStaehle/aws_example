@@ -46,14 +46,17 @@ There are no env requirements
 
 - Feature one: Deploy to AWS
 
-- GET : / - specific route to hit
-- Feature two: Deploy with Beanstalk CLI
+- GET : /person
+- GETONE: /person/id
+- UPDATE: /person/id
+- POST : /person
+- DELETE : /person/id
+
 
 #### Tests
 
-there are no tests at this time.
+click lambda test button
 
 #### UML
 
 ![UML](../ASSETS/LAB-19-UML.png)
-
